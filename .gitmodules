@@ -4,3 +4,6 @@
 [submodule "Source/SubModules/Frame-Protection-Support"]
 	path = Source/SubModules/Frame-Protection-Support
 	url = https://github.com/NIVeriStandAdd-Ons/Frame-Protection-Support.git
+[submodule "Source/SubModules/J1939-22-LabVIEW-API"]
+	path = Source/SubModules/J1939-22-LabVIEW-API
+	url = https://github.com/ni/J1939-22-LabVIEW-API.git
